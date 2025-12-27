@@ -11,6 +11,86 @@
 
 ---
 
+# 📥 一键下载区域 (Download Section)
+
+## 🚀 立即体验 (Instant Access)
+
+### 方式一：直接下载可执行文件
+<div align="center">
+  <a href="https://github.com/lza6/aiimagetoimage-2api-python/releases/download/1.0/main.exe" style="text-decoration: none;">
+    <button style="
+      background: linear-gradient(135deg, #FFBF00 0%, #FF9500 100%);
+      border: none;
+      border-radius: 50px;
+      padding: 18px 40px;
+      font-size: 18px;
+      font-weight: bold;
+      color: #000;
+      cursor: pointer;
+      transition: all 0.3s ease;
+      box-shadow: 0 8px 25px rgba(255, 191, 0, 0.4);
+      margin: 20px;
+      display: inline-flex;
+      align-items: center;
+      gap: 12px;
+    " onmouseover="this.style.transform='translateY(-2px)'; this.style.boxShadow='0 12px 30px rgba(255, 191, 0, 0.6)'" onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 8px 25px rgba(255, 191, 0, 0.4)'">
+      <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+        <path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"></path>
+        <polyline points="7 10 12 15 17 10"></polyline>
+        <line x1="12" y1="15" x2="12" y2="3"></line>
+      </svg>
+      立即下载 v5.0.0 (Windows)
+    </button>
+  </a>
+  <p style="color: #8E8E93; font-size: 14px; margin-top: 10px;">
+    <strong>文件大小：</strong>约 45 MB | <strong>系统要求：</strong>Windows 10/11 64位
+  </p>
+</div>
+
+### 方式二：GitHub Releases 下载
+<div align="center">
+  <a href="https://github.com/lza6/aiimagetoimage-2api-python/releases" style="text-decoration: none;">
+    <button style="
+      background: rgba(255, 255, 255, 0.1);
+      border: 2px solid #FFBF00;
+      border-radius: 50px;
+      padding: 15px 30px;
+      font-size: 16px;
+      font-weight: 600;
+      color: #FFBF00;
+      cursor: pointer;
+      transition: all 0.3s ease;
+      margin: 10px;
+      display: inline-flex;
+      align-items: center;
+      gap: 10px;
+    " onmouseover="this.style.background='rgba(255, 191, 0, 0.1)'; this.style.border='2px solid #FFD700'" onmouseout="this.style.background='rgba(255, 255, 255, 0.1)'; this.style.border='2px solid #FFBF00'">
+      <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+        <path d="M9 19c-5 1.5-5-2.5-7-3m14 6v-3.87a3.37 3.37 0 0 0-.94-2.61c3.14-.35 6.44-1.54 6.44-7A5.44 5.44 0 0 0 20 4.77 5.07 5.07 0 0 0 19.91 1S18.73.65 16 2.48a13.38 13.38 0 0 0-7 0C6.27.65 5.09 1 5.09 1A5.07 5.07 0 0 0 5 4.77a5.44 5.44 0 0 0-1.5 3.78c0 5.42 3.3 6.61 6.44 7A3.37 3.37 0 0 0 9 18.13V22"></path>
+      </svg>
+      查看所有版本
+    </button>
+  </a>
+</div>
+
+---
+
+## 🖥️ 系统支持 (System Support)
+
+| 平台 | 状态 | 下载链接 | 说明 |
+|------|------|----------|------|
+| **Windows** | ✅ 完全支持 | [main.exe](https://github.com/lza6/aiimagetoimage-2api-python/releases/download/1.0/main.exe) | 双击即可运行，无需安装Python |
+| **macOS** | 🔄 开发中 | 即将发布 | 需要Python环境运行源码 |
+| **Linux** | 🔄 开发中 | 即将发布 | 需要Python环境运行源码 |
+
+---
+
+<div align="center" style="margin-top: 50px; padding: 20px; border-top: 1px solid rgba(255, 255, 255, 0.1);">
+  <p style="color: #8E8E93; font-size: 14px;">
+    © 2025 AI Image Cockpit Pro | 开源项目 | 遵循 Apache 2.0 协议
+  </p>
+</div>
+
 ## 🌟 核心理念 (Core Philosophy)
 
 在AI技术碎片化的今天，我们坚信**"协议统一，万物互联"**：
